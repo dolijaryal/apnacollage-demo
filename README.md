@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first git repository.
 <br>
-Author - Doli Jaryal
+Author - Doli singh
